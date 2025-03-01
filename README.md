@@ -9,6 +9,10 @@ if you want to try this task, please put simple_tag_heaven.py to your local site
  to add this new vmas task.
  
 
-https://github.com/user-attachments/assets/04751e48-9cee-479e-88d5-6b6b7e91272f
+
+
+https://github.com/user-attachments/assets/5ee9424a-8550-454a-8b64-12112c63c303
+
+
 
 
